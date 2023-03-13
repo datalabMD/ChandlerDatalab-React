@@ -1,0 +1,47 @@
+.outline-gray-button-heero-container {
+  display: flex;
+  position: relative;
+}
+.outline-gray-button-heero-button {
+  color: var(--dl-color-secondary-200);
+  outlinr: none;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  transition: all .15s ease-in;
+  padding-top: var(--dl-space-space-triplequarterunit);
+  border-color: var(--dl-color-secondary-200);
+  padding-left: var(--dl-space-space-unitandahalfunit);
+  border-radius: 1.875rem;
+  padding-right: var(--dl-space-space-unitandahalfunit);
+  padding-bottom: var(--dl-space-space-triplequarterunit);
+  text-transform: none;
+  text-decoration: none;
+}
+.outline-gray-button-heero-button:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}
+
+
+
+
+
+
+
+
+
+@media(max-width: 479px) {
+  .outline-gray-button-heero-root-class-name2 {
+    align-self: center;
+  }
+  .outline-gray-button-heero-root-class-name6 {
+    align-self: center;
+  }
+  .outline-gray-button-heero-root-class-name7 {
+    align-self: center;
+  }
+  .outline-gray-button-heero-root-class-name8 {
+    align-self: center;
+  }
+}

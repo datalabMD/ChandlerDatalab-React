@@ -1,0 +1,17 @@
+.bloc-text-left-bloc-text-left {
+  flex: 0 0 auto;
+  display: flex;
+  padding: 1rem;
+  max-width: 500px;
+  align-self: flex-end;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.bloc-text-left-text {
+  color: var(--dl-color-secondary-600);
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.bloc-text-left-text1 {
+  align-self: flex-end;
+  text-align: right;
+}

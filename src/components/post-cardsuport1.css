@@ -1,0 +1,81 @@
+.post-cardsuport1-post-cardsuport {
+  width: 100%;
+  display: flex;
+  max-width: 1400px;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.post-cardsuport1-post-cardsuport:hover {
+  transform: scale(1.02);
+}
+.post-cardsuport1-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #dce4e4;
+}
+.post-cardsuport1-text {
+  color: var(--dl-color-secondary-500);
+  margin: var(--dl-space-space-unit);
+  font-style: normal;
+  text-align: center;
+  letter-spacing: -0.025rem;
+  text-transform: none;
+  text-decoration: none;
+}
+.post-cardsuport1-image {
+  width: 100%;
+  height: 100%;
+  max-height: 50rem;
+  object-fit: cover;
+  border-radius: 0px;
+}
+.post-cardsuport1-description {
+  width: 100%;
+  display: flex;
+  padding: 32px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: var(--dl-color-gray-white);
+}
+.post-cardsuport1-separator {
+  width: 60%;
+  height: 2px;
+  margin-top: var(--dl-space-space-halfunit);
+  margin-left: 0p0x;
+  margin-right: 0p0x;
+  margin-bottom: var(--dl-space-space-unitandahalfunit);
+  background-color: var(--dl-color-gray-900);
+}
+.post-cardsuport1-text1 {
+  text-align: justify;
+  text-transform: none;
+  text-decoration: none;
+}
+.post-cardsuport1-root-class-name {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.post-cardsuport1-root-class-name1 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.post-cardsuport1-root-class-name2 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.post-cardsuport1-root-class-name3 {
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.post-cardsuport1-root-class-name4 {
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.post-cardsuport1-root-class-name5 {
+  margin-bottom: var(--dl-space-space-unit);
+}
+.post-cardsuport1-root-class-name6 {
+  margin-bottom: var(--dl-space-space-doubleunit);
+}
+.post-cardsuport1-root-class-name7 {
+  margin-bottom: var(--dl-space-space-unit);
+}
